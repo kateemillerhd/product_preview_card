@@ -101,3 +101,8 @@ button {
 .icon {
     padding-right: 10px;
 }
+
+button:hover {
+    background-color: var(--darkgreen);
+    cursor: pointer;
+}
