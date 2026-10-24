@@ -26,13 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![project screenschot](./product_preview_card.png)
 
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/kateemillerhd/product_preview_card)
+- Live Site URL: [Live Site URL](https://kateemillerhd.github.io/product_preview_card/)
 
 ## My process
 
@@ -41,15 +41,16 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
+I continue to develop my flexbox/positioning skills.
 
 ### Continued development
 
+In the future, I would like to further develop my knowledge of inheritance and positioning elements
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@kateemillerhd](https://www.frontendmentor.io/profile/kateemillerhd)
