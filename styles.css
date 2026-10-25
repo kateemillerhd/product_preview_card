@@ -128,3 +128,20 @@ button {
 button:hover {
     background-color: var(--darkgreen);
 }
+
+@media (max-width: 600px) {
+    .container {
+        grid-template-columns: 1fr;
+        width: 90%;
+        height: auto;
+    }
+
+    .img-cont .large {
+        display: none;
+    }
+
+    .img-cont .small {
+        display: block;
+    }
+
+}

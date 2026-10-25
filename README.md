@@ -27,6 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![project screenschot](./product_preview_card.png)
+![desktop preview](./product_previe_card.png)
 
 
 ### Links
